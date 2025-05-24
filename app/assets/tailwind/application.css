@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@theme {
+    --color-rausch : #ff5a5f;
+    --color-babu: #00A699;
+    --color-arches: #FC642D;
+    --color-hof: #484848;
+    --color-foggy: #767676;
+    --color-search: #FF385C;
+    --color-spruce: #008A05;
+    --color-mykonou5: #428BFF;
+    --color-plus: #92174D;
+    --color-luxe: #460479
+}
